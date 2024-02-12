@@ -10,7 +10,7 @@ metadata:
     app.kubernetes.io/part-of: partner-catalog2
   name: partner-catalog2-wfvs
 spec:
-  replicas: 1
+  replicas: 0
   revisionHistoryLimit: 0
   selector:
     matchLabels:
